@@ -1,0 +1,19 @@
+﻿Нейросетевые пакеты
+R: http://cran.rstudio.com/web/packages/available_packages_by_date.html
+nnet
+neuralnet
+neural
+"AMORE" 
+"grnnR"
+TeachNet
+RSNNS 	Neural Networks in R using the Stuttgart Neural Network Simulator (SNNS) 
+grnn 	General regression neural network 
+pnn 	Probabilistic neural networks 
+brnn 	brnn (Bayesian regularization for feed-forward neural networks) 
+ 	qrnn 	Quantile regression neural network	
+monmlp 	Monotone multi-layer perceptron neural network 
+ANN 	Feedforward Artificial Neural Network optimized by Genetic Algorithm 
+	
+Octave:
+Octave's Neural Network Package
+Matlab neural network toolbox
